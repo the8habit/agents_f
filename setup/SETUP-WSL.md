@@ -20,7 +20,7 @@ https://learn.microsoft.com/en-us/windows/wsl/install
 We will be using the default Ubuntu distribution of Linux, which seems to work fine. Let's do this!
 
 1. Open a powershell
-2. Run: `wsl --install`
+2. Run: `wsl --install` 
 3. Select to allow elevated permissions when it asks; then wait for Ubuntu to install
 4. Then run `wsl` to start it and set your Linux username and password
 5. Type `pwd` and `ls` to see what directory you're in, and list the contents. Then type `cd` to change to your home directory, and repeat.
