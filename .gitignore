@@ -181,3 +181,10 @@ cython_debug/
 # Ignore Accounts database in capstone project
 6_mcp/accounts.db
 6_mcp/memory/*.db
+5_autogen/community_contributions/rs/intro/ind.db
+5_autogen/community_contributions/rs/intro/about.txt
+5_autogen/community_contributions/rs/intro/cntry_grp_map.csv
+5_autogen/community_contributions/rs/intro/euro_cntry_grp.json
+.gitignore
+5_autogen/community_contributions/rs/intro/euro_countries.json
+5_autogen/community_contributions/rs/intro/indicators.csv
