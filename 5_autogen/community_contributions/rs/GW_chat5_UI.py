@@ -176,10 +176,10 @@ def main():
         title="European Health Information Gateway Chat",
         description="Ask questions about health indicators and data from the WHO European Region",
         examples=[
-            "Plot Life Expectancy at Birth for Denmark and the WHO European Region",
-            "Show me data about life expectancy",
+            "Plot life expectancy at birth for Denmark and EU",
+            "Show me data about measles in the Nordic region",
             "Show maternal mortality rates in WHO European Region",
-            "Compare the estimated maternal mortality ratios for both the EU and the WHO European Region"
+            "Compare the estimated maternal mortality ratios for both the European Union and the WHO European Region"
         ],
         type="messages"  # Use the new message format to avoid deprecation warning
     )
